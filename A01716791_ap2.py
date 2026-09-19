@@ -1,3 +1,9 @@
+"""
+Enlace a cuenta de GitHub: https://github.com/mqcro8
+
+Enlace a repo: https://github.com/mqcro8/TC1038.603_Project
+"""
+
 def add_task():
 
     # Se solicitan los datos necesarios para la tarea (por ahora solo se piden)
