@@ -5,7 +5,7 @@
 **Miguel Ceballos Aguilar - A01716791**
 **Tecnológico de Monterrey, Campus Querétaro**  
 **TC1038 – Fundamentos de Programación**  
-**Proyecto Integrador – Avance 2**  
+**Proyecto Integrador – Avance 3**  
 **Profesor: Dr. Leonardo Ledesma Domínguez**
 
 ---
